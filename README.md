@@ -1,1 +1,1 @@
-segun is funny
+My first commit
